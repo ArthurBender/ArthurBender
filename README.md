@@ -3,16 +3,21 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arthur-bender/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mail:arthurllbender@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/5548996063778?text=Hi%20Arthur!%20I%20got%20your%20number%20on%20GitHub" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="35" height="25" alt="whatsapp logo"  />
-  </a>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><a href="https://www.linkedin.com/in/arthur-bender/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
+      </a>
+      <td><a href="mailto:arthurllbender@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="25" alt="gmail logo"  />
+      </a></td>
+      <td><a href="https://wa.me/5548996063778?text=Hi%20Arthur!%20I%20got%20your%20number%20on%20GitHub" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="35" height="25" alt="whatsapp logo"  />
+      </a></td>
+    </tr>
+  </table>
 </div>
+ 
 
 ###
 
